@@ -8,37 +8,38 @@
 
 ## Results
 
-- The Table has been built using this JavaScript functionality
+- The Table has been built using this JavaScript functionality :
 
   <img src="https://github.com/hsurisetti/UFOs/blob/main/images/buildTableFunction.png" width=400 />
 
-- Update Filter Function Javascript :
+- Any changes made to the filter has been Updated using this function:
 
   <img src="https://github.com/hsurisetti/UFOs/blob/main/images/updateFilterFunction.png" width=400 />
   
- The Table has been finally fitered using the below functionality:
+-  The Table has been finally fitered using the below functionality:
  
    <img src="https://github.com/hsurisetti/UFOs/blob/main/images/FilterTableFunction.png" width=400 />
   
- - UFO Sightings Home page 
+ ### UFO Sightings Home page 
  <img src="https://github.com/hsurisetti/UFOs/blob/main/images/HomePage.png" width=400 />
  
- - UFO Sightings without filters
+ ### UFO Sightings without filters
  <img src="https://github.com/hsurisetti/UFOs/blob/main/images/Homepage_withoutfilters.png" width=400 />
  
- - UFO Sightings with Date Filter
+ ### UFO Sightings with Date Filter
   <img src="https://github.com/hsurisetti/UFOs/blob/main/images/DateFilter.png" width=400 />
 
-- UFO Sightings with Date and shape filter
+ ### UFO Sightings with Date and shape filter
 
 <img src="https://github.com/hsurisetti/UFOs/blob/main/images/Date_shape_filter.png" width=400 />
 
-- console output of the filters :
+### Console output of the filters :
 
   <img src="https://github.com/hsurisetti/UFOs/blob/main/images/Console_output_filter.png" width=400 />
  
 ## Summary
 Finally, this webpage has been successfully bulit using HTML, CSS and JavaScript. 
+
 ### Drawback :
   Some drawbacks which I could notice are 
    - If the user doesn't know the exact date but knows the month that needs to be searched upon, the user cannot search specifically for that month. The user needs to know the eact full date.
